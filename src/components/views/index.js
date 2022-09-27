@@ -1,0 +1,12 @@
+export { default as HomePageView } from "./HomePageView";
+export { default as EncryptionView } from "./EncryptionView";
+export { default as CaesarCipherView } from "./CaesarCipherView";
+export { default as ArticlesView } from "./ArticlesView";
+export { default as Quiz0View } from "./Quiz0View";
+export { default as VigenereCipherView } from "./VigenereCipherView";
+export { default as DESView } from "./DESView";
+export { default as RC4View } from "./RC4View";
+export { default as UserProfileView } from "./UserProfileView";
+export { default as SignupView } from "./SignUpView";
+export { default as LoginView } from "./LogInView";
+export { default as VerificationView } from "./VerificationView";

@@ -1,0 +1,17 @@
+.parent {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  Align-Items: center;
+      }
+.letters {
+  position: absolute;
+   z-index: 3;
+ }
+ #lettersid {
+   transition:all 1.5s;
+ }
+.base {
+  position: relative;
+     z-index: 1;
+     }
